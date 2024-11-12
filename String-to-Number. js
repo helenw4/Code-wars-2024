@@ -1,0 +1,11 @@
+// We need a function that can transform a string into a number. What ways of achieving this do you know? 
+
+
+// MY SOLUTION STARTS HERE
+
+const stringToNumber = function(str){
+ let strNum = Number(str)
+ return strNum
+}
+
+console.log(stringToNumber) 
