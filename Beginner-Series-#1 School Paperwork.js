@@ -6,7 +6,7 @@
 // n= 5, m=5: 25
 // n=-5, m=5:  0
 
-// SOLUTION STARTS HERE 
+// SOLUTION STARTS HERE: 
 
 
 function paperwork(n, m) {
