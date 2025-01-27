@@ -19,7 +19,7 @@
 // EXAMPLE OUTPUT 3: (if using the example array above)
 //    Q20 divisibleByX ([4,41,832,72,89,120,431,505,70], 2): 4
 
-// PUT YOUR CODE HERE FOR QUESTIONS
+// PUT YOUR CODE HERE FOR QUESTIONS (Solution starts here): 
 
 let arrayCols = [20, 25, 30, 35, 40];
 let intCols = 5;
