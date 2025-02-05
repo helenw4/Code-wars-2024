@@ -3,7 +3,7 @@
 // [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
 
 
-// MY SOLUTION STARTS HERE: 
+// MY ATTEMPTED SOLUTION STARTS HERE: 
 
 function grow(array){
   let grownArray = array.reduce((acc, curVal) => acc * curVal, 1  )
