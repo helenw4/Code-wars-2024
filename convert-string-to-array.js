@@ -3,7 +3,7 @@
 // Examples (Input ==> Output):
 // "Robin Singh" ==> ["Robin", "Singh"]
 
-// MY SOLUTION STARTS HERE 
+// MY SOLUTION STARTS HERE:
 
 
 function stringToArray(string){
