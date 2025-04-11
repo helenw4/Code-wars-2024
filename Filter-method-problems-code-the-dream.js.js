@@ -1,7 +1,7 @@
 // ----- Practice JS methods - filter -----
 // ---------- QUESTION 11 ----------
 // Write a function called 'evenNumbers' that takes an array as an argument and uses the filter method.  Return only the even numbers from the array of numbers.  Remember - you can find out if a number is even by using the % operator (modulus operator) like this:
-//  number % 2 === 0   (gives a true boolean result, for even numbers)
+//  number % 2 === 0   (gives a true boolean result for even numbers)
 
 // EXAMPLE CALL:
 //   let numberArray = [4, 41, 832, 72, 89, 120, 431, 505, 70];
