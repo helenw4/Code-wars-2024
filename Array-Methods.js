@@ -1,7 +1,7 @@
 / ---------- QUESTION 20 ----------
 // Write a function called 'divisibleByX' that takes two arguments: an array and an integer.  The function should use the find method to return the first number in the array that's divisible by the integer that was passed as an argument.  If there are no values that are divisible by the second argument, return undefined.
 
-// EXAMPLE ARRAY:
+// EXAMPLE OF ARRAY:
 //    let numbers = [4,41,832,72,89,120,431,70];
 
 // EXAMPLE CALL 1:
