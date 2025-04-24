@@ -5,7 +5,7 @@
 // Kata.getMiddle("test") should return "es"
 
 
-// MY SOLUTION 
+// MY SOLUTION: 
 
 function getMiddle(s)
 {
