@@ -8,7 +8,7 @@
 // false    | true     => false
 // false    | false    => false
 
-// MY SOLUTION 
+// MY SOLUTION: 
 
 function setAlarm(employed, vacation){
   if(employed && !vacation){
