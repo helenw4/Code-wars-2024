@@ -1,4 +1,4 @@
-/ ---------- QUESTION 20 ----------
+/ ---------- QUESTION #20 ----------
 // Write a function called 'divisibleByX' that takes two arguments: an array and an integer.  The function should use the find method to return the first number in the array that's divisible by the integer that was passed as an argument.  If there are no values that are divisible by the second argument, return undefined.
 
 // EXAMPLE OF ARRAY:
