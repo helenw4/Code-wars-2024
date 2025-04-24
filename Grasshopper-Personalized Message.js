@@ -6,7 +6,7 @@
 // name equals owner	'Hello boss'
 // otherwise	'Hello guest'
 
-// MY SOLUTION 
+// MY SOLUTION: 
 
 function greet (name, owner) {
     if (name === owner) {
