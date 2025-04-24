@@ -4,7 +4,7 @@
 // makeNegative(1);    // return -1
 
 
-// MY SOLUTION 
+// MY SOLUTION: 
 
 function makeNegative(num) {
   if (num > 0){
