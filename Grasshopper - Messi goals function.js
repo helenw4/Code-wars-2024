@@ -7,11 +7,11 @@
 
 // Note: the input will always be valid.
 
-// For example:
+//  For example:
 
 // 5, 10, 2  -->  17
 
-// SOLUTION STARTS HERE 
+// SOLUTION STARTS HERE: 
 
 function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
   let messiGoals = laLigaGoals + copaDelReyGoals + championsLeagueGoals; 
