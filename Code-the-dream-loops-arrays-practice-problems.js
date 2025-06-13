@@ -8,7 +8,7 @@
 //    Hello World!
 //    Hello World!
 
-// PUT YOUR CODE HERE
+// PUT YOUR CODE HERE: 
 
 function repeat(times) {
   for (let i = 0; i < times; i++) {
