@@ -9,7 +9,7 @@
 // 1,2,2 -> true
 
 
-// SOLUTION STARTS HERE 
+// SOLUTION STARTS HERE: 
 
 function isTriangle(a, b, c) {
   // Check for positive side lengths and the triangle inequality
