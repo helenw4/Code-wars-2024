@@ -19,4 +19,5 @@ function isTriangle(a, b, c) {
     return false;
   }
 }
+
 console.log(isTriangle(3,3,3))    
