@@ -7,6 +7,7 @@
 
 // MY SOLUTION: 
 
+
 function getMiddle(s)
 {
      let middleIndex = Math.floor(s.length / 2); // create formula for finding middle char of word and store it in a variable 
