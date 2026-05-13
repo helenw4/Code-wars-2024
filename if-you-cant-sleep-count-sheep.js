@@ -3,7 +3,6 @@
 
 // MY SOLUTION: 
 
-
 function countSheep(num) {
   let result = "";
   
