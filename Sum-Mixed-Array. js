@@ -23,7 +23,7 @@ console.log(sumMix([9, 3, "7", "3"]), 22)
 
 
 
-// OTHER POSSIBLE SOLUTIONS 
+// OTHER POSSIBLE SOLUTIONS: 
 
 function sumMix(x){
   return x.map(a => +a).reduce((a, b) => a + b);
