@@ -17,6 +17,7 @@ function oddOrEven(array) {
  }
 } 
 
+
 // OR 
 
 function oddOrEven(arr) {
